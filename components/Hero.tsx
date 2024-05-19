@@ -59,7 +59,7 @@ const Hero = () => {
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi! I&apos;m Raed Baffoun, a fullstack Developer based in Tunisia.
           </p>
-          <img src="/raed.jfif" alt="Raed" height={80} width={80} className="rounded-full shadow-lg border-2 border-gray-200" />
+          <img src="/modernPortfolio/raed.jfif" alt="Raed" height={80} width={80} className="rounded-full shadow-lg border-2 border-gray-200" />
           <a href="#about">
             <MagicButton
               title="Showcase work"
