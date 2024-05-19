@@ -15,7 +15,7 @@ export const gridItems = [
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh] ",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/modernPortfolio/fullstack.jpg",
+    img: "/ModernPortfolio/fullstack.jpg",
     spareImg: "",
   },
   {
@@ -45,8 +45,8 @@ export const gridItems = [
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
-    img: "/modernPortfolio/grid.svg",
-    spareImg: "/modernPortfolio/b4.svg",
+    img: "/ModernPortfolio/grid.svg",
+    spareImg: "/ModernPortfolio/b4.svg",
   },
 
   {
@@ -66,32 +66,32 @@ export const projects = [
     id: 1,
     title: "E-commerce website",
     des: "Developed a comprehensive eCommerce platform featuring user-friendly navigation, secure payment integration, real-time inventory management, and personalized shopping experiences, designed to enhance user satisfaction and drive online sales.",
-    img: "/modernPortfolio/ecommerce.png",
-    iconLists: ["/modernPortfolio/re.svg", "/modernPortfolio/tail.svg", "/modernPortfolio/ts.svg",],
+    img: "/ModernPortfolio/ecommerce.png",
+    iconLists: ["/ModernPortfolio/re.svg", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg",],
     link: "/",
   },
   {
     id: 2,
     title: "Medical Website (Medigest)",
     des: "This is a doctor management website where doctors can receive appointments and talk freely to their clients, I worked on this project for my graduation project inside polytechnique.",
-    img: "/modernPortfolio/medigest.PNG",
-    iconLists: ["/modernPortfolio/angular.png", "/modernPortfolio/tail.svg", "/modernPortfolio/ts.svg",],
+    img: "/ModernPortfolio/medigest.PNG",
+    iconLists: ["/ModernPortfolio/angular.png", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg",],
     link: "/",
   },
   {
     id: 3,
     title: "Social Media App",
     des: "Created an engaging social media app with real-time messaging, customizable profiles, news feeds, and robust privacy settings, designed to foster dynamic user interactions and community building.",
-    img: "/modernPortfolio/social.jpg",
-    iconLists: ["/modernPortfolio/re.svg", "/modernPortfolio/tail.svg", "/modernPortfolio/ts.svg"],
+    img: "/ModernPortfolio/social.jpg",
+    iconLists: ["/ModernPortfolio/re.svg", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg"],
     link: "/",
   },
   {
     id: 4,
     title: "Modern Portfolio app",
     des: "Developed a sleek and responsive portfolio app showcasing my projects, skills, and experiences, complete with interactive elements, seamless navigation, and an intuitive user interface to highlight my professional journey and achievements",
-    img: "/modernPortfolio/portfolio.PNG",
-    iconLists: ["/modernPortfolio/next.svg", "/modernPortfolio/tail.svg", "/modernPortfolio/ts.svg"],
+    img: "/ModernPortfolio/portfolio.PNG",
+    iconLists: ["/ModernPortfolio/next.svg", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg"],
     link: "/",
   },
 ];
@@ -150,42 +150,42 @@ export const workExperience = [
     title: "Fullstack Engineer Intern within ITGATE group",
     desc: "Assisted in the development of a web-based platform using Angular & springboot within ITGATE group.",
     className: "md:col-span-2",
-    thumbnail: "/modernPortfolio/exp1.svg",
+    thumbnail: "/ModernPortfolio/exp1.svg",
   },
   {
     id: 2,
     title: "Part-time fullstack engineer within ITGATE group",
     desc: "Designed and developed web apps withing ITGATE group using various technologies such as react js , next js and many more",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/modernPortfolio/exp2.svg",
+    thumbnail: "/ModernPortfolio/exp2.svg",
   },
   {
     id: 3,
     title: "Fullstack engineer within e-saad services",
     desc: "Worked as a fullstack engineer within e-saad services focusing on education themed projects using technologies such as sails js , RDF RDFS and apache fuseki for database.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/modernPortfolio/exp3.svg",
+    thumbnail: "/ModernPortfolio/exp3.svg",
   },
   {
     id: 4,
     title: "Fullstack engineer within HPC group",
     desc: "Worked as a fullstack developer using various technologies such as Sveltekit node js Docker sqlite etc...",
     className: "md:col-span-2",
-    thumbnail: "/modernPortfolio/exp4.svg",
+    thumbnail: "/ModernPortfolio/exp4.svg",
   },
 ];
 
 export const socialMedia = [
   {
     id: 1,
-    img: "/modernPortfolio/git.svg",
+    img: "/ModernPortfolio/git.svg",
   },
   {
     id: 2,
-    img: "/modernPortfolio/twit.svg",
+    img: "/ModernPortfolio/twit.svg",
   },
   {
     id: 3,
-    img: "/modernPortfolio/link.svg",
+    img: "/ModernPortfolio/link.svg",
   },
 ];
