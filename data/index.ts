@@ -64,11 +64,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "E-commerce website",
-    des: "Developed a comprehensive eCommerce platform featuring user-friendly navigation, secure payment integration, real-time inventory management, and personalized shopping experiences, designed to enhance user satisfaction and drive online sales.",
-    img: "/ModernPortfolio/ecommerce.png",
-    iconLists: ["/ModernPortfolio/re.svg", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg",],
-    link: "/",
+    title: "Periodic screenshot app",
+    des: "Developed a periodic screenshot app that captures screenshots at regular intervals, designed to help users monitor their screen activity and track changes over time.",
+    img: "/ModernPortfolio/screenshotmanager.png",
+    iconLists: ["/ModernPortfolio/re.svg", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg", "/ModernPortfolio/electronjs-icon.svg","/ModernPortfolio/nodejs.svg"],
+    link: "https://github.com/raedbaff/Screenshot-Manager",
   },
   {
     id: 2,
@@ -76,23 +76,31 @@ export const projects = [
     des: "This is a doctor management website where doctors can receive appointments and talk freely to their clients, I worked on this project for my graduation project inside polytechnique.",
     img: "/ModernPortfolio/medigest.PNG",
     iconLists: ["/ModernPortfolio/angular.png", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg",],
-    link: "/",
+    link: "https://github.com/raedbaff/MedGest",
   },
   {
     id: 3,
-    title: "Social Media App",
-    des: "Created an engaging social media app with real-time messaging, customizable profiles, news feeds, and robust privacy settings, designed to foster dynamic user interactions and community building.",
-    img: "/ModernPortfolio/social.jpg",
-    iconLists: ["/ModernPortfolio/re.svg", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg"],
-    link: "/",
-  },
-  {
-    id: 4,
     title: "Modern Portfolio app",
     des: "Developed a sleek and responsive portfolio app showcasing my projects, skills, and experiences, complete with interactive elements, seamless navigation, and an intuitive user interface to highlight my professional journey and achievements",
     img: "/ModernPortfolio/portfolio.PNG",
     iconLists: ["/ModernPortfolio/next.svg", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg"],
-    link: "/",
+    link: "https://github.com/raedbaff/ModernPortfolio",
+  },
+  {
+    id: 4,
+    title: "Gaming quiz app",
+    des: "Developed a fun and interactive gaming quiz app featuring a wide range of questions, engaging visuals, and real-time scoring, designed to entertain users and test their knowledge of popular games and gaming culture.",
+    img: "/ModernPortfolio/brainiacs.PNG",
+    iconLists: ["/ModernPortfolio/next.svg", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg"],
+    link: "https://github.com/raedbaff/GameBrainiacs",
+  },
+  {
+    id: 5,
+    title: "Mini reddit app",
+    des: "Developed a mini reddit app where users can post and comment on posts, I used technologies such as react js and node js for this project.",
+    img: "/ModernPortfolio/bafftalk.PNG",
+    iconLists: ["/ModernPortfolio/next.svg", "/ModernPortfolio/tail.svg", "/ModernPortfolio/ts.svg"],
+    link: "https://github.com/raedbaff/BaffTalk",
   },
 ];
 
@@ -179,13 +187,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/ModernPortfolio/git.svg",
+    link: "https://github.com/raedbaff"
   },
   {
     id: 2,
-    img: "/ModernPortfolio/twit.svg",
-  },
-  {
-    id: 3,
     img: "/ModernPortfolio/link.svg",
+    link:"https://www.linkedin.com/in/raed-baffoun-884088242/"
   },
 ];
